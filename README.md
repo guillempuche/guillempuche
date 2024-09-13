@@ -11,7 +11,7 @@
 
 <p>Currently designing a scalable app and web platform.</p>
 
-<p>Includes a monorepo (Nx), web (React Vite, NextJS), native (React Native Expo), common theme (Tamagui), actor models, Clean Architecture, Material Design tokens, fluid design (Every Layout), server, local-first in SQLite and PostgresSQL...</p>
+<p>Includes a monorepo (Nx, Yarn), web (React Vite), native (React Native Expo), cross-platform UI theme (Tamagui), actor models, Clean Architecture, Material Design tokens, fluid design (Every Layout), Effect server, local-first in SQLite and Postgres, errors as first class...</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/guillempuche/">
@@ -22,7 +22,5 @@
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guillempuche&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillempuche&hide_progress=true)
 
 <img src="https://komarev.com/ghpvc/?username=guillempuche&style=flat-square&color=blue" alt=""/>
