@@ -21,6 +21,10 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guillempuche&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guillempuche&theme=dark&background=000000&hide_longest_streak=true&mode=weekly)](https://git.io/streak-stats)
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=guillempuche&style=flat-square&color=blue" alt=""/>
