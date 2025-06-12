@@ -11,13 +11,7 @@
 
 <p>Currently designing a scalable app and web platform.</p>
 
-<p>Includes a monorepo (Nx, Yarn), web (React Vite), native (React Native Expo), cross-platform UI theme (Tamagui), actor models, Clean Architecture, Material Design tokens, fluid design (Every Layout), Effect server, local-first in SQLite and Postgres, errors as first class...</p>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/guillempuche/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<p>Includes monorepos, web (React Vite), native (React Native), cross-platform UI theme (Tamagui), Effect, actor models, Clean Architecture, Material Design tokens, fluid design (Every Layout), Effect server, local-first in SQLite and Postgres, errors as first class...</p>
 
 ---
 
