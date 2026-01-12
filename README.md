@@ -1,4 +1,4 @@
-# Guillem Puche
+# Hola 👋
 
 ## what I do
 
@@ -34,4 +34,8 @@ Clean Architecture. DDD when it fits. Local-first when offline matters.
 
 ---
 
-[linkedin](https://www.linkedin.com/in/guillempuche/) · [xiroi.cat](https://xiroi.cat)
+<a href="https://www.linkedin.com/in/guillempuche/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+[xiroi.cat](https://xiroi.cat)
