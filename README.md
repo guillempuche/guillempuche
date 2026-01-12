@@ -1,25 +1,37 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Guillem Puche
 
-<h1>
-  Hola
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## what I do
 
-<p>I'm embarked on a journey to create apps & webs for awareness and spiritual growth.</p>
+Full-stack, end to end. Domain modeling to deployment. I like owning the whole thing.
 
-<p>Currently designing a scalable app and web platform.</p>
+Clean Architecture, bounded contexts, monorepos with 30-40 packages. Effect.ts for the backend. Errors as values, dependency injection that makes sense, no try-catch soup.
 
-<p>Includes monorepos, web (React Vite), native (React Native), cross-platform UI theme (Tamagui), Effect, actor models, Clean Architecture, Material Design tokens, fluid design (Every Layout), Effect server, local-first in SQLite and Postgres, errors as first class...</p>
+Cross-platform: one codebase, runs on iOS, Android, web. Expo, Tamagui, TanStack Router with SSR.
 
+Unikernels for deployment. After VMs came containers. After containers come unikernels. Single-purpose, millisecond boot, tiny attack surface. I deploy on Unikraft Cloud.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/guillempuche/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## open source
+
+I use a lot of OSS, so I try to give back. File issues, join Discords, push for things I need.
+
+Lately that's been React 19 and Expo compatibility in [loro](https://github.com/loro-dev/loro-mirror/issues/54), [10tap-editor](https://github.com/10play/10tap-editor/issues/315), [plate](https://github.com/udecode/plate/issues/4457). Also [macOS support for kraft](https://github.com/unikraft/unikraft/issues/1713).
+
+When I can, I contribute code. [Added locales to Univer](https://github.com/dream-num/univer/pull/5536). Small stuff, but it adds up.
+
+Active in Effect and Unikraft Discord. Lurk in OpenFGA.
+
+## repos
+
+Templates and guides that save people time:
+
+[nx-expo-next-tamagui](https://github.com/guillempuche/nx-expo-next-tamagui) 44⭐ · [localfirst_react_server](https://github.com/guillempuche/localfirst_react_server) 27⭐ · [selfhost_fullstack_in_vps](https://github.com/guillempuche/selfhost_fullstack_in_vps) 15⭐
+
+## tech
+
+Effect.ts, TypeScript, React Native, Expo, Tamagui, TanStack, PostgreSQL, Kysely, Nix, unikernels.
+
+Clean Architecture. DDD when it fits. Local-first when offline matters.
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=guillempuche&style=flat-square&color=blue" alt=""/>
+[linkedin](https://www.linkedin.com/in/guillempuche/) · [xiroi.cat](https://xiroi.cat)
