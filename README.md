@@ -39,3 +39,5 @@ Clean Architecture. DDD when it fits. Local-first when offline matters.
 </a>
 
 [xiroi.cat](https://xiroi.cat)
+
+<img src="https://komarev.com/ghpvc/?username=guillempuche&style=flat-square&color=blue" alt=""/>
