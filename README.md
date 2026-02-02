@@ -38,6 +38,4 @@ Clean Architecture. DDD when it fits. Local-first when offline matters.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-[xiroi.cat](https://xiroi.cat)
-
 <img src="https://komarev.com/ghpvc/?username=guillempuche&style=flat-square&color=blue" alt=""/>
